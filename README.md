@@ -1,9 +1,5 @@
 # gestao-corridas-entregas
-GESTÃO CORRIDAS & ENTREGAS — SEM BANCO DE DADOS
-
-COMO PUBLICAR NO GITHUB PAGES
-1. Entre em https://github.com e crie um repositório público (ex.: gestao-corridas-entregas).
-2. Envie o arquivo index.html para a raiz do repositório.
+GESTÃO CORRIDAS & ENTREGAS — SEM BANCO 
 3. Abra Settings > Pages.
 4. Em Build and deployment, escolha Deploy from a branch.
 5. Selecione a branch main e a pasta / (root), depois Save.
